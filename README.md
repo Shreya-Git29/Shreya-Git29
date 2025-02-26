@@ -8,34 +8,34 @@
 ## 💻 Tech Stack & Skills  
 
 ### 🔹 Programming & Web Development  
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)   
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
+![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp)  
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
 ### 🔹 Frontend & Backend  
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)  
+![React](https://img.shields.io/badge/-React-000?&logo=React)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)  
 
 ### 🔹 Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)  
 
 ### 🔹 Tools & Version Control  
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)  
-![Microsoft 360](https://img.shields.io/badge/-Microsoft_Office-000?&logo=Microsoft-Office&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
+![Microsoft 360](https://img.shields.io/badge/-Microsoft_Office-000?&logo=Microsoft-Office)  
 
 ### 🔹 Data Analytics & BI Tools  
-![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power-BI&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power-BI)  
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel)   
 
 ---
 
