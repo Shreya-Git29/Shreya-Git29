@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack & Skills  
 
-### 🔹 Programming & Web Development  
+### 🔹 Programming Languages  
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
@@ -15,10 +15,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
-### 🔹 Frontend & Backend  
+### 🔹 Frontend Technologies  
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)  
 ![React](https://img.shields.io/badge/-React-000?&logo=React)  
+
+### 🔹 Backend & APIs  
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)  
@@ -26,16 +28,17 @@
 ### 🔹 Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)  
+![Microsoft 360](https://img.shields.io/badge/-Microsoft_Office-000?&logo=Microsoft-Office)  
 
 ### 🔹 Tools & Version Control  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
-![Microsoft 360](https://img.shields.io/badge/-Microsoft_Office-000?&logo=Microsoft-Office)  
 
 ### 🔹 Data Analytics & BI Tools  
 ![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power-BI)  
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel)   
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel)  
+
 
 ---
 
