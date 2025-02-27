@@ -15,7 +15,7 @@ I'm a passionate **AI/ML Developer & Data Scientist** with expertise in building
 
 ### 🔥 Featured Projects  
 🚑 **[Breast Cancer Detection](https://github.com/Shreya-Git29/breast-cancer-detection)** – AI model for early cancer detection (92% accuracy).  
-🌿 **[Plant Iris Detection]((https://github.com/Shreya-Git29)plant-iris-detection)** – Classifies Iris species using Decision Trees (95% accuracy).  
+🌿 **[Plant Iris Detection](https://github.com/Shreya-Git29)plant-iris-detection)** – Classifies Iris species using Decision Trees (95% accuracy).  
 💰 **[Financial Market Sentiment Analysis](https://github.com/Shreya-Git29/financial-sentiment-analysis)** – Predicts market trends using ML & NLP.  
 
 ### 🛠️ Tech Stack  
