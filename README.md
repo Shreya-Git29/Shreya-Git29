@@ -1,6 +1,31 @@
 # Hi there, I'm Shreya Gautam! 👋  
 
 ## 🚀 About Me  
+ 
+
+### 🚀 AI/ML | Data Science | Software Development  
+
+I'm a passionate **AI/ML Developer & Data Scientist** with expertise in building intelligent solutions for real-world problems. From **healthcare AI models** to **financial market analysis**, I love working on projects that make an impact.  
+
+### 💡 What I Do  
+🔹 **AI & ML Development** – Built models for **Breast Cancer Detection**, **Financial Sentiment Analysis**, and more.  
+🔹 **Data Science & Analytics** – Experience in **EDA, ETL, and dashboard development** for business insights.  
+🔹 **Software Development** – Developed applications using **Java, Python, React, and Flutter**.  
+🔹 **Research & Innovation** – Published research on **Emotion-Driven Music Therapy App** and released a **patent**.  
+
+### 🔥 Featured Projects  
+🚑 **[Breast Cancer Detection](https://github.com/yourusername/breast-cancer-detection)** – AI model for early cancer detection (92% accuracy).  
+🌿 **[Plant Iris Detection](https://github.com/yourusername/plant-iris-detection)** – Classifies Iris species using Decision Trees (95% accuracy).  
+💰 **[Financial Market Sentiment Analysis](https://github.com/yourusername/financial-sentiment-analysis)** – Predicts market trends using ML & NLP.  
+
+### 🛠️ Tech Stack  
+💻 **Languages**: Python, Java, JavaScript, SQL  
+📊 **ML & Data Science**: TensorFlow, Scikit-learn, Pandas, Seaborn  
+🌍 **Web & App Dev**: React, Flutter, HTML/CSS  
+🔍 **Tools**: Google Colab, Jupyter, Git, Docker  
+
+
+
 
 
 ---
