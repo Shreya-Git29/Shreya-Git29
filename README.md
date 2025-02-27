@@ -1,4 +1,5 @@
 # Hi there, I'm Shreya Gautam! 👋  
+pip install pygame
 
 ## 🚀 About Me  
  
