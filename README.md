@@ -1,38 +1,5 @@
 # Hi there, I'm Shreya Gautam! 👋  
-name: Generate snake animation
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ## 🚀 About Me  
  
 
@@ -47,9 +14,9 @@ I'm a passionate **AI/ML Developer & Data Scientist** with expertise in building
 🔹 **Research & Innovation** – Published research on **Emotion-Driven Music Therapy App** and released a **patent**.  
 
 ### 🔥 Featured Projects  
-🚑 **[Breast Cancer Detection](https://github.com/yourusername/breast-cancer-detection)** – AI model for early cancer detection (92% accuracy).  
-🌿 **[Plant Iris Detection](https://github.com/yourusername/plant-iris-detection)** – Classifies Iris species using Decision Trees (95% accuracy).  
-💰 **[Financial Market Sentiment Analysis](https://github.com/yourusername/financial-sentiment-analysis)** – Predicts market trends using ML & NLP.  
+🚑 **[Breast Cancer Detection](https://github.com/Shreya-Git29/breast-cancer-detection)** – AI model for early cancer detection (92% accuracy).  
+🌿 **[Plant Iris Detection]((https://github.com/Shreya-Git29)plant-iris-detection)** – Classifies Iris species using Decision Trees (95% accuracy).  
+💰 **[Financial Market Sentiment Analysis](https://github.com/Shreya-Git29/financial-sentiment-analysis)** – Predicts market trends using ML & NLP.  
 
 ### 🛠️ Tech Stack  
 💻 **Languages**: Python, Java, JavaScript, SQL  
