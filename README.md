@@ -70,8 +70,8 @@ I'm a passionate **AI/ML Developer & Data Scientist** with expertise in building
 ---
 
 ## 📊 GitHub Stats  
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyagautam29&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyagautam29&layout=compact&theme=tokyonight)  
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-Git29&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Git29&layout=compact&theme=tokyonight)  
 
 ---
 
